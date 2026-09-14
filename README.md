@@ -1,5 +1,5 @@
-# 💫 About Me:
-My name is Mayank Jain.I’m a tech enthusiast, vibe coder, and hardware tinkerer who loves turning wild ideas into working projects—whether that’s on a breadboard, in the browser, or straight from a phone terminal.
+# 💫 Hi 👋, I'm Mayank Jain
+I’m a tech enthusiast, vibe coder, and hardware tinkerer who loves turning wild ideas into working projects—whether that’s on a breadboard, in the browser, or straight from a phone terminal.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,13 @@ My name is Mayank Jain.I’m a tech enthusiast, vibe coder, and hardware tinkere
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=MayankJ-coder&icon=0&color=0)](https://visitcount.itsvg.in)
